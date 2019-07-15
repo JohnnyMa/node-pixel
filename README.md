@@ -44,10 +44,10 @@ npm install node-pixel
 npm install -g nodebots-interchange
 ```
 
-Plug in your arduino
+Plug in your arduino(customized by self)
 
 ```
-interchange install git+https://github.com/ajfisher/node-pixel -a uno --firmata
+interchange install git+https://github.com/johnnyma/node-pixel -a uno --firmata
 ```
 
 ### A note on multiple strips
